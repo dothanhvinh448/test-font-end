@@ -32,7 +32,7 @@
   .banner .slider{
     position: relative;
     left: 50%;
-    bottom: 5px;
+    bottom: 30px;
   }
   .banner .slider >img.banner{
     width: 100%;
